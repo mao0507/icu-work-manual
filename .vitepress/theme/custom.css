@@ -1,0 +1,16 @@
+/* 暫時隱藏原始 PDF 頁面對照區塊 */
+.raw-page {
+  display: none;
+}
+
+/* 可放大圖片 */
+.zoomable img {
+  cursor: zoom-in;
+  border-radius: 8px;
+  max-width: 100%;
+}
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 100;
+}
