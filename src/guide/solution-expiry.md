@@ -28,9 +28,11 @@
 | 其他 | Antigerm 4% 4000mL/Bot（洗手） | 室溫 6 個月 |
 | 其他 | 分裝後藥品 | 室溫 6 個月 |
 
-::: tip
-完整表格請見原始頁面（★ 為需特別留意品項）。
-:::
+<div class="zoomable">
+
+![常備多劑量包裝品類開封保存期限完整表](/image/img-009-008.png)
+
+</div>
 
 <div class="raw-page">
 

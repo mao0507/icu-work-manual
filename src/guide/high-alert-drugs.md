@@ -28,6 +28,14 @@ $$\frac{劑量(mg) \times 1000}{溶液量 \times 60}$$
 
 $$\frac{劑量(mg) \times 1000}{體重 \times 溶液量 \times 60}$$
 
+## 輸注藥物配伍禁忌
+
+<div class="zoomable">
+
+![ICU 常用靜脈輸注藥物配伍禁忌速查表](/image/img-026-022.png)
+
+</div>
+
 <div class="raw-page">
 
 ## 原始頁面

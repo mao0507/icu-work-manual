@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: 三班常規
       link: /guide/shift-routine
+    - theme: alt
+      text: ⬇ 下載原版 PDF
+      link: /doc/工作手冊.pdf
 
 features:
   - icon: 📋

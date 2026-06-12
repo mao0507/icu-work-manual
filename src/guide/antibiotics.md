@@ -2,6 +2,12 @@
 
 下圖為 **Antibiotic Sensitivity Overview**（抗生素敏感性總覽），依菌種分類：
 
+<div class="zoomable">
+
+![Antibiotic Sensitivity Overview](/image/img-021-018.png)
+
+</div>
+
 - **Gram Positive Cocci**：MRSA、MSSA、Streptococci
 - **Gram Negative Bacilli**：E.coli／Klebsiella、Proteus、Pseudomonas、ESCAPPM
 - **Anaerobes**（厭氧菌）

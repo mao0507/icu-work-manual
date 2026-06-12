@@ -14,6 +14,12 @@
 評分要以**最佳分數**記載。
 :::
 
+<div class="zoomable">
+
+![GCS 評分詳細說明](/image/img-042-045.png)
+
+</div>
+
 <div class="raw-page">
 
 ## 原始頁面

@@ -46,9 +46,21 @@
 
 **絕對嗜中性白血球數（ANC）**：指白血球中的嗜中性白血球（neutrophil）之多形核白血球（segment）及帶狀白血球（band）的數量。
 
+<div class="zoomable">
+
+![ANC 嚴重程度分級與感染風險](/image/img-024-020.png)
+
+</div>
+
 計算公式：
 
 $$ANC = (Seg\% + Band\%) \times WBC$$
+
+<div class="zoomable">
+
+![ANC 計算公式](/image/img-024-021.png)
+
+</div>
 
 ::: details 牛刀小試
 病人接受化學治療前 WBC 2,000/mm³、seg 30%、band 5%、monocyte 15%、Hb 9.5 g/dL、platelet 200,000/mm³，請問絕對嗜中性白血球（ANC）為多少？

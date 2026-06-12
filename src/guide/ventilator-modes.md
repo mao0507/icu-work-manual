@@ -9,6 +9,12 @@
 - PSV
 - CPAP
 
+<div class="zoomable">
+
+![常見呼吸器模式比較表](/image/img-034-038.png)
+
+</div>
+
 ## 常用參數
 
 | 參數 | 全名 | 說明 |

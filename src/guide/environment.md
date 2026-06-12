@@ -13,7 +13,7 @@
 
 <div class="zoomable">
 
-![認識單位環境](/pages/page-04.jpg)
+![認識單位環境](/image/img-004-000.png)
 
 </div>
 

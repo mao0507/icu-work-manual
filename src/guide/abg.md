@@ -16,6 +16,28 @@
 3. 判讀有無代償
 4. 判讀 BEefc
 
+## 正常參考值
+
+| 動脈血（Arterial） | | 靜脈血（Venous） | |
+| --- | --- | --- | --- |
+| PH | 7.35–7.45 | PH | 7.32–7.42 |
+| pCO2 | 35–45 mmHg | pCO2 | 41–51 mmHg |
+| pO2 | 80–95 mmHg | pO2 | 25–40 mmHg |
+| HCO3 | 22–26 mmol/L | HCO3 | 24–28 mmol/L |
+| Sat O2 | 95–98% | Sat O2 | 40–70% |
+
+<div class="zoomable">
+
+![動脈血正常值](/image/img-031-031.png)
+
+</div>
+
+<div class="zoomable">
+
+![靜脈血正常值](/image/img-031-032.png)
+
+</div>
+
 ## 判讀原則
 
 | | 酸 | | 鹼 |

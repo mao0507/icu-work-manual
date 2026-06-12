@@ -17,6 +17,15 @@
 15. 手術全期（由 OP DAY 大夜班完成）。
 16. 送刀前 Check Vital Sign、血糖並完成紀錄。
 
+
+--- 
+
+<div class="zoomable">
+
+![術前準備 Checklist](/image/img-016-015.png)
+
+</div>
+
 <div class="raw-page">
 
 ## 原始頁面
